@@ -11,6 +11,12 @@ CAS fork adds integration to ASEP for questions:
 
 ## Changelog
 
+### Version 2
+- Based on Horizon Europe DMP 1.20.0 - some typos already solved in the original DT 
+- Corrected typos
+- 2026-01-14
+
+
 ### Version 1
 - Based on Horizon Europe DMP 1.19.0
 - usable with: *CAS Common DSW Knowledge Model 3.0.8* and *CAS Life Sciences DSW Knowledge Model 3.0.13*
